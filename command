@@ -14,6 +14,7 @@ git branch -d commentaire    //supprimer la branche comnetaire
 git checkout -b commentaire  // recreer la branche commentaire et pointer HEAD sur commentaire
 git diff f1aaba6 e26eac5 
 git diff e26eac5 f1aaba6
+<<<<<<< HEAD
 
 git checkout master
 git log --oneline --all --graph  // afhicher les branch 
@@ -37,3 +38,5 @@ git restore doc
 
 der
 
+=======
+>>>>>>> test
