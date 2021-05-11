@@ -17,3 +17,8 @@ git diff e26eac5 f1aaba6
 
 git checkout master
 git log --oneline --all --graph  // afhicher les branch 
+git log --oneline --all --graph --decorate
+
+Head^ /recul de 1 commit
+Head^^ /recul de 2 commit
+/////////////
